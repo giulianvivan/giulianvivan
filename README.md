@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Giulian Gonçalves Vivan (@giulianvivan) 
+- 👀 I’m interested in Software Development among other stuff :rofl: :upside_down_face:
+- 🌱 I’m currently (re)learning and improving my Python skills
+- 💞️ I’m open to positions in software development, specially with Python
+- 📫 How to reach me: send me an e-mail through giulian@siliconant.com
